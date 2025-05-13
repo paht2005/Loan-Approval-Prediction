@@ -6,12 +6,12 @@
 
 ---
 # Team Member
-| No.    | Student ID      | Full Name in Vietnamese        | Position   | Github                                                  | Email                   |
-| ------ |:---------------:| ------------------------------:|-----------:|--------------------------------------------------------:|-------------------------:
-| 1      | 23521570        | Huỳnh Việt Tiến                |Nhóm trưởng | |23521570@gm.uit.edu.vn    |
-| 2      | 23521143        | Nguyễn Công Phát               |Thành viên  |[paht2005](https://github.com/paht2005))  |23521143@gm.uit.edu.vn  |
-| 3      | 23520123        | Nguyễn Minh Bảo                |Thành viên  |[ducducqn123](https://github.com/ducducqn123)            |23520123@gm.uit.edu.vn  |
-| 4      | 23520133        | Phạm Phú Bảo                   |Thành viên  ||23520133@gm.uit.edu.vn   |
+| No.    | Student ID      | Full Name in Vietnamese        | Position   | Github                                       | Email                   |
+| ------ |:---------------:| ------------------------------:|-----------:|---------------------------------------------:|-------------------------:
+| 1      | 23521570        | Huỳnh Việt Tiến                |Nhóm trưởng |                                              |23521570@gm.uit.edu.vn   |
+| 2      | 23521143        | Nguyễn Công Phát               |Thành viên  |[paht2005](https://github.com/paht2005))      |23521143@gm.uit.edu.vn   |
+| 3      | 23520123        | Nguyễn Minh Bảo                |Thành viên  |                                              |23520123@gm.uit.edu.vn   |
+| 4      | 23520133        | Phạm Phú Bảo                   |Thành viên  |                                              |23520133@gm.uit.edu.vn   |
 
 ## 📖 Table of Contents
 
