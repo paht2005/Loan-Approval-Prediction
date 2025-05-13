@@ -105,7 +105,7 @@
 ```
 | Model    | All Features | After Dropping 2 Features |
 | -------- | ------------ | ------------------------- |
-| XGBoost  | 94.90%       | **95.83%** ✅              |
+| XGBoost  | 94.90%       | 95.83%                    |
 | LightGBM | 94.67%       | 94.83%                    |
 | CatBoost | 94.70%       | 94.87%                    |
 ```
@@ -115,4 +115,12 @@ After performing model comparisons and testing with feature elimination, we foun
 Among them, **XGBoost** achieved the **best result** with:
 - **F1 Macro Score: 95.83%**
 - **After dropping 2 low-impact features**
+
 This confirms that **careful feature selection** can have significant positive effects on model performanc
+
+## 🤝 Contributing
+Contributions, improvements, or issue reports are welcome. Please open a pull request or submit an issue!
+
+## 📄 License
+
+
