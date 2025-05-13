@@ -106,7 +106,7 @@
    ```
 3. **Open the notebook:**
    ```bash
-   jupyter notebook notebooks/CS116Project_LoanApprovalPrediciton.ipynb
+   jupyter notebook CS116Project_LoanApprovalPrediciton.ipynb
    ```
 ## 📈 Results
 ```
