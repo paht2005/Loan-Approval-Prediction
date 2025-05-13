@@ -5,6 +5,13 @@
 > This repository contains the full implementation of a machine learning pipeline developed for the Kaggle competition **Loan Approval Prediction (Playground Series - Season 4, Episode 10)**. Our goal is to predict whether a loan will be approved based on applicant information and credit history, leveraging state-of-the-art ML models and careful feature engineering.
 
 ---
+# Team Member
+| No.    | Student ID    | Full Name in Vietnamese        | Position   | Github                                                  | Email                   |
+| ------ |:-------------:| ------------------------------:|-----------:|--------------------------------------------------------:|-------------------------:
+| 1      | 23521570      | Huỳnh Việt Tiến                |Nhóm trưởng | |23521570@gm.uit.edu.vn    |
+| 2      | 23521143      | Nguyễn Công Phát               |Thành viên  |[paht2005][(https://github.com/trong-khanh-1109](https://github.com/paht2005))  |23521143@gm.uit.edu.vn  |
+| 3      | 23520123      | Nguyễn Minh Bảo                |Thành viên  |[ducducqn123](https://github.com/ducducqn123)            |23520123@gm.uit.edu.vn  |
+| 4      | 23520133      | Phạm Phú Bảo                   |Thành viên  ||23520133@gm.uit.edu.vn   |
 
 ## 📖 Table of Contents
 
