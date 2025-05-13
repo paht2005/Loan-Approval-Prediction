@@ -10,7 +10,7 @@
 | ------ |:---------------:| ------------------------------:|-----------:|---------------------------------------------:|-------------------------:
 | 1      | 23521570        | Huỳnh Việt Tiến                |Leader      |                                              |23521570@gm.uit.edu.vn   |
 | 2      | 23521143        | Nguyễn Công Phát               |Member      |[paht2005](https://github.com/paht2005))      |23521143@gm.uit.edu.vn   |
-| 3      | 23520123        | Nguyễn Minh Bảo                |Member      |                                              |23520123@gm.uit.edu.vn   |
+| 3      | 23520123        | Nguyễn Minh Bảo                |Member      |[itsdabao](https://github.com/itsdabao)       |23520123@gm.uit.edu.vn   |        
 | 4      | 23520133        | Phạm Phú Bảo                   |Member      |                                              |23520133@gm.uit.edu.vn   |
 
 ## 📖 Table of Contents
@@ -37,7 +37,7 @@
 - Comparison between multiple models: **XGBoost, LightGBM, CatBoost**.
 - Automatic encoding and feature dropping based on correlation and performance.
 - Uses **F1 Macro Score** as primary evaluation metric.
-- Detailed performance tracking with `StratifiedKFold` cross-validation.
+- Performance was evaluated using a single 80/20 train–test split instead of cross-validation.
 
 ---
 
