@@ -51,7 +51,7 @@
 ├── CS116Project_LoanApprovalPrediciton.ipynb # Main Jupyter notebook
 ├── requirements.txt # Python Dependencies
 └── README.md # Project overview
-
+└── LICENSE
 ```
 
 ---
