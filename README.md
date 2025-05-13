@@ -64,7 +64,7 @@
   - **XGBoost**
   - **LightGBM**
   - **CatBoost**
-- Used **StratifiedKFold (n=10)** for fair evaluation.
+- Used train_test_split (80/20) for model evaluation and comparison.
 - Metrics:
   - Accuracy
   - F1 Macro
