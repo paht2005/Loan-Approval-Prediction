@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction - Kaggle Playground Series S4E10
+# 🏦 CS116 Project: Loan Approval Prediction 
 
 [![Kaggle Competition](https://img.shields.io/badge/Kaggle-Playground_S4E10-blue)](https://www.kaggle.com/competitions/playground-series-s4e10)
 
